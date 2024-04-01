@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo01/Eureka_server/Eureka_server.iml" filepath="$PROJECT_DIR$/demo01/Eureka_server/Eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/Eureka_server02/Eureka_server02.iml" filepath="$PROJECT_DIR$/demo01/Eureka_server02/Eureka_server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/demo01.iml" filepath="$PROJECT_DIR$/demo01/demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/service_consumer/service_consumer.iml" filepath="$PROJECT_DIR$/demo01/service_consumer/service_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/service_provider/service_provider.iml" filepath="$PROJECT_DIR$/demo01/service_provider/service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/service_provider02/service_provider02.iml" filepath="$PROJECT_DIR$/demo01/service_provider02/service_provider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_cloud_class.iml" filepath="$PROJECT_DIR$/.idea/spring_cloud_class.iml" />
+    </modules>
+  </component>
+</project>

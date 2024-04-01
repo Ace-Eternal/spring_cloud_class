@@ -1,0 +1,6 @@
+# Project exclude paths
+/demo01/Eureka_server/target/
+/demo01/Eureka_server02/target/
+/demo01/service_consumer/target/
+/demo01/service_provider/target/
+/demo01/service_provider02/target/

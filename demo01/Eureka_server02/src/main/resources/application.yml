@@ -1,0 +1,15 @@
+server:
+  port: 8762 # 端口
+spring:
+  application:
+    name: eureka-server02 # 应用名称，会在Eureka中显示
+eureka:
+  client:
+    register-with-eureka: false # 是否注册自己的信息到EurekaServer，默认是true
+    fetch-registry: false # 是否拉取其它服务的信息，默认是true
+    service-url: # EurekaServer的地址，现在是自己的地址，如果是集群，需要加上其它Server的地址。
+      defaultZone: "http://eureka01:8761/eureka,http://eureka01:8762/eureka"
+  instance:
+    hostname: "eureka02"
+  server:
+    enable-self-preservation: false #关闭自我保护 如果发现周围有许多微服务没了，不会注销了
