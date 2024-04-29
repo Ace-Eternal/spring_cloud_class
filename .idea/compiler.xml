@@ -7,20 +7,86 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Eureka_server02 (5)" />
+        <module name="Eureka_server (2)" />
+        <module name="Eureka_server (6)" />
+        <module name="service_provider02" />
+        <module name="Eureka_server (4)" />
+        <module name="Eureka_server02 (3)" />
+        <module name="Eureka_server02 (1)" />
+        <module name="service_provider (4)" />
+        <module name="service_provider02 (5)" />
+        <module name="service_provider (2)" />
+        <module name="service_provider02 (3)" />
+        <module name="service_consumer" />
+        <module name="service_provider02 (1)" />
         <module name="Eureka_server" />
         <module name="Eureka_server02" />
+        <module name="service_consumer (5)" />
+        <module name="service_consumer (3)" />
+        <module name="service_provider (6)" />
+        <module name="Eureka_server02 (6)" />
+        <module name="Eureka_server (1)" />
+        <module name="service_consumer (1)" />
+        <module name="Eureka_server (5)" />
         <module name="service_provider" />
-        <module name="service_provider02" />
-        <module name="service_consumer" />
+        <module name="Eureka_server (3)" />
+        <module name="Eureka_server02 (4)" />
+        <module name="Eureka_server02 (2)" />
+        <module name="service_provider (3)" />
+        <module name="service_provider02 (6)" />
+        <module name="service_provider (1)" />
+        <module name="service_provider02 (4)" />
+        <module name="service_provider02 (2)" />
+        <module name="service_consumer (4)" />
+        <module name="service_consumer (2)" />
+        <module name="service_provider (5)" />
+        <module name="service_consumer (6)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo01" target="1.8" />
+      <module name="demo01 (1)" target="1.8" />
+      <module name="demo01 (2)" target="1.8" />
+      <module name="demo01 (3)" target="1.8" />
+      <module name="demo01 (4)" target="1.8" />
+      <module name="demo01 (5)" target="1.8" />
+      <module name="demo01 (6)" target="1.8" />
       <module name="Eureka_server" target="1.8" />
+      <module name="Eureka_server (1)" target="1.8" />
+      <module name="Eureka_server (2)" target="1.8" />
+      <module name="Eureka_server (3)" target="1.8" />
+      <module name="Eureka_server (4)" target="1.8" />
+      <module name="Eureka_server (5)" target="1.8" />
+      <module name="Eureka_server (6)" target="1.8" />
       <module name="Eureka_server02" target="1.8" />
+      <module name="Eureka_server02 (1)" target="1.8" />
+      <module name="Eureka_server02 (2)" target="1.8" />
+      <module name="Eureka_server02 (3)" target="1.8" />
+      <module name="Eureka_server02 (4)" target="1.8" />
+      <module name="Eureka_server02 (5)" target="1.8" />
+      <module name="Eureka_server02 (6)" target="1.8" />
       <module name="service_consumer" target="1.8" />
+      <module name="service_consumer (1)" target="1.8" />
+      <module name="service_consumer (2)" target="1.8" />
+      <module name="service_consumer (3)" target="1.8" />
+      <module name="service_consumer (4)" target="1.8" />
+      <module name="service_consumer (5)" target="1.8" />
+      <module name="service_consumer (6)" target="1.8" />
       <module name="service_provider" target="1.8" />
+      <module name="service_provider (1)" target="1.8" />
+      <module name="service_provider (2)" target="1.8" />
+      <module name="service_provider (3)" target="1.8" />
+      <module name="service_provider (4)" target="1.8" />
+      <module name="service_provider (5)" target="1.8" />
+      <module name="service_provider (6)" target="1.8" />
       <module name="service_provider02" target="1.8" />
+      <module name="service_provider02 (1)" target="1.8" />
+      <module name="service_provider02 (2)" target="1.8" />
+      <module name="service_provider02 (3)" target="1.8" />
+      <module name="service_provider02 (4)" target="1.8" />
+      <module name="service_provider02 (5)" target="1.8" />
+      <module name="service_provider02 (6)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -27,7 +27,43 @@ Kdemo01/Eureka_server/src/main/java/com/example/EurekaServerApplication.java,c\
 Rdemo01/service_provider02/src/main/java/com/example/controller/UserController.java,6\3\633907fb30f5d224868099c80ffd67436aa08c63
 s
 Cdemo01/service_consumer/src/main/java/com/example/ruler/Config.java,3\3\33b7d027def01863aa568bc44b2ec24e30905f0d
-{
-Kdemo01/service_provider/src/main/java/com/example/ServiceProvider16000.java,1\a\1aa89e534462fd0a2a7ea1407751ae0f6664dc13
 y
 Idemo01/service_consumer/src/main/java/com/example/ruler/WeightConfig.java,d\b\db9ef71874e3970a47530c38e0b5bb9e5bee55c7
+€
+Pdemo01/service_provider/src/main/java/com/example/controller/UserController.java,4\7\470e138f33edfd0e79f825d319c030e19f2697df
+‚
+Rdemo01/service_consumer/src/main/java/com/example/feignClient/ProviderService.java,5\e\5e99006afc4bfe2f835dcf204004fc3f9ec63561
+O
+demo01/service_consumer/pom.xml,9\1\911ed3da362ac1e8b6aed508fef46fd7a34de855
+‡
+Wdemo01/service_consumer/src/main/java/com/example/balancer/ThreeTimesLoaderBlancer.java,a\0\a0bf1ff53b72563dcf43a85ea92cdfc2f242ff23
+†
+Vdemo01/service_consumer/src/main/java/com/example/ServiceConsumerApplication10000.java,c\0\c09d3fbbd916fe376bd27668e5f91063dc807da5
+}
+Mdemo01/service_provider02/src/main/java/com/example/ServiceProvider16001.java,0\4\04e4fc2ee5e90c22677789221ffd3c596c0e6943
+}
+Mdemo01/service_consumer/src/main/java/com/example/ruler/ThreeTimesConfig.java,4\8\485d8dc9908c75c0d55a4147f298faa11b4abe2a
+?
+demo02/intro.md,6\2\62394eb831e4401a2fde307f647a834df4fa5623
+O
+demo02/service_provider/pom.xml,b\5\b580a096adb43f0003ecd1579211d65d34356d4d
+{
+Kdemo01/service_provider/src/main/java/com/example/ServiceProvider16000.java,1\a\1aa89e534462fd0a2a7ea1407751ae0f6664dc13
+O
+demo02/service_consumer/pom.xml,6\0\60e2b496e660dd30cb02fe8c27f5554275042963
+>
+demo04/note.md,0\b\0b81151aa2e8ee1fc9a7204fff260359c12895cf
+O
+demo05/service_consumer/pom.xml,e\0\e003108f65749e8a2b102bfb8652488684b983af
+>
+demo05/note.md,a\8\a8d5ab405ba105830a4751c59b2a8020cf20a075
+
+Odemo05/Eureka_server02/src/main/java/com/example/EurekaServer02Application.java,2\9\29fc06de6fe6c76d549b635069d21584c586a5e2
+{
+Kdemo05/Eureka_server/src/main/java/com/example/EurekaServerApplication.java,6\3\63cb59111c62631b83c3a5ecc43aeb8e4da96403
+{
+Kdemo05/service_provider/src/main/java/com/example/ServiceProvider16000.java,4\c\4c58417fa235dd7a395cca7f0d39115712c82d3d
+€
+Pdemo05/service_consumer/src/main/java/com/example/controller/CartController.java,3\9\3984afaacf97678bfba9b0ee83f0d38b3578d063
+†
+Vdemo05/service_consumer/src/main/java/com/example/ServiceConsumerApplication10000.java,9\1\912d9d9b2597b31a6b7b2b40fb6af892a9a26f7c

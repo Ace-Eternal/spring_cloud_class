@@ -3,11 +3,47 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo01/Eureka_server/Eureka_server.iml" filepath="$PROJECT_DIR$/demo01/Eureka_server/Eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/Eureka_server/Eureka_server (1).iml" filepath="$PROJECT_DIR$/demo02/Eureka_server/Eureka_server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/Eureka_server/Eureka_server (2).iml" filepath="$PROJECT_DIR$/demo03/Eureka_server/Eureka_server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/Eureka_server/Eureka_server (3).iml" filepath="$PROJECT_DIR$/demo04/Eureka_server/Eureka_server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/Eureka_server/Eureka_server (4).iml" filepath="$PROJECT_DIR$/demo05/Eureka_server/Eureka_server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/Eureka_server/Eureka_server (5).iml" filepath="$PROJECT_DIR$/demo06/Eureka_server/Eureka_server (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/Eureka_server/Eureka_server (6).iml" filepath="$PROJECT_DIR$/demo07/Eureka_server/Eureka_server (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01/Eureka_server02/Eureka_server02.iml" filepath="$PROJECT_DIR$/demo01/Eureka_server02/Eureka_server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/Eureka_server02/Eureka_server02 (1).iml" filepath="$PROJECT_DIR$/demo02/Eureka_server02/Eureka_server02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/Eureka_server02/Eureka_server02 (2).iml" filepath="$PROJECT_DIR$/demo03/Eureka_server02/Eureka_server02 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/Eureka_server02/Eureka_server02 (3).iml" filepath="$PROJECT_DIR$/demo04/Eureka_server02/Eureka_server02 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/Eureka_server02/Eureka_server02 (4).iml" filepath="$PROJECT_DIR$/demo05/Eureka_server02/Eureka_server02 (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/Eureka_server02/Eureka_server02 (5).iml" filepath="$PROJECT_DIR$/demo06/Eureka_server02/Eureka_server02 (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/Eureka_server02/Eureka_server02 (6).iml" filepath="$PROJECT_DIR$/demo07/Eureka_server02/Eureka_server02 (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01/demo01.iml" filepath="$PROJECT_DIR$/demo01/demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/demo01 (1).iml" filepath="$PROJECT_DIR$/demo02/demo01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/demo01 (2).iml" filepath="$PROJECT_DIR$/demo03/demo01 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/demo01 (3).iml" filepath="$PROJECT_DIR$/demo04/demo01 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/demo01 (4).iml" filepath="$PROJECT_DIR$/demo05/demo01 (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/demo01 (5).iml" filepath="$PROJECT_DIR$/demo06/demo01 (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/demo01 (6).iml" filepath="$PROJECT_DIR$/demo07/demo01 (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01/service_consumer/service_consumer.iml" filepath="$PROJECT_DIR$/demo01/service_consumer/service_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/service_consumer/service_consumer (1).iml" filepath="$PROJECT_DIR$/demo02/service_consumer/service_consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/service_consumer/service_consumer (2).iml" filepath="$PROJECT_DIR$/demo03/service_consumer/service_consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/service_consumer/service_consumer (3).iml" filepath="$PROJECT_DIR$/demo04/service_consumer/service_consumer (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/service_consumer/service_consumer (4).iml" filepath="$PROJECT_DIR$/demo05/service_consumer/service_consumer (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/service_consumer/service_consumer (5).iml" filepath="$PROJECT_DIR$/demo06/service_consumer/service_consumer (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/service_consumer/service_consumer (6).iml" filepath="$PROJECT_DIR$/demo07/service_consumer/service_consumer (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01/service_provider/service_provider.iml" filepath="$PROJECT_DIR$/demo01/service_provider/service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/service_provider/service_provider (1).iml" filepath="$PROJECT_DIR$/demo02/service_provider/service_provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/service_provider/service_provider (2).iml" filepath="$PROJECT_DIR$/demo03/service_provider/service_provider (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/service_provider/service_provider (3).iml" filepath="$PROJECT_DIR$/demo04/service_provider/service_provider (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/service_provider/service_provider (4).iml" filepath="$PROJECT_DIR$/demo05/service_provider/service_provider (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/service_provider/service_provider (5).iml" filepath="$PROJECT_DIR$/demo06/service_provider/service_provider (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/service_provider/service_provider (6).iml" filepath="$PROJECT_DIR$/demo07/service_provider/service_provider (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/demo01/service_provider02/service_provider02.iml" filepath="$PROJECT_DIR$/demo01/service_provider02/service_provider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/service_provider02/service_provider02 (1).iml" filepath="$PROJECT_DIR$/demo02/service_provider02/service_provider02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/service_provider02/service_provider02 (2).iml" filepath="$PROJECT_DIR$/demo03/service_provider02/service_provider02 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/service_provider02/service_provider02 (3).iml" filepath="$PROJECT_DIR$/demo04/service_provider02/service_provider02 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo05/service_provider02/service_provider02 (4).iml" filepath="$PROJECT_DIR$/demo05/service_provider02/service_provider02 (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo06/service_provider02/service_provider02 (5).iml" filepath="$PROJECT_DIR$/demo06/service_provider02/service_provider02 (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07/service_provider02/service_provider02 (6).iml" filepath="$PROJECT_DIR$/demo07/service_provider02/service_provider02 (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_cloud_class.iml" filepath="$PROJECT_DIR$/.idea/spring_cloud_class.iml" />
     </modules>
   </component>
