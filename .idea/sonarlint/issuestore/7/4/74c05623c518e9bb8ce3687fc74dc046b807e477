@@ -1,0 +1,27 @@
+
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ï¼²·8–šÈ¿ò1
+Q
+java:S1172'"4Remove these unused method parameters "userId", "e".(×Ãœ8•šÈ¿ò1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(–—‰Û8øÓË¿ò1
+^
+java:S1128"<Remove this unused import 'com.example.entity.CommonResult'.(ï”Ê•üÿÿÿÿ8–šÈ¿ò1
+r
+java:S1128"PRemove this unused import 'io.github.resilience4j.bulkhead.annotation.Bulkhead'.(½Ç—ğúÿÿÿÿ8—šÈ¿ò1
+y
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ8—šÈ¿ò1
+s
+java:S1128"VRemove this unused import 'io.github.resilience4j.ratelimiter.annotation.RateLimiter'.(ÿƒŠ8—šÈ¿ò1
+l
+java:S1128	"JRemove this unused import 'io.github.resilience4j.retry.annotation.Retry'.(Ä³ß¾úÿÿÿÿ8—šÈ¿ò1
+h
+java:S1128"KRemove this unused import 'org.apache.hc.core5.concurrent.CompletedFuture'.(ñû»‰8—šÈ¿ò1
+b
+java:S1128"@Remove this unused import 'org.apache.tomcat.util.buf.UEncoder'.(…÷Éşÿÿÿÿ8—šÈ¿ò1
+j
+java:S1128"MRemove this unused import 'org.springframework.cloud.client.ServiceInstance'.(¡‡¨ã8—šÈ¿ò1
+t
+java:S1128"WRemove this unused import 'org.springframework.cloud.client.discovery.DiscoveryClient'.(Ù“®¦8—šÈ¿ò1
+j
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8—šÈ¿ò1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8—šÈ¿ò1

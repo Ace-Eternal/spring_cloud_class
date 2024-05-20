@@ -8,85 +8,165 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Eureka_server02 (5)" />
-        <module name="Eureka_server (2)" />
-        <module name="Eureka_server (6)" />
+        <module name="Eureka_server02 (9)" />
         <module name="service_provider02" />
         <module name="Eureka_server (4)" />
-        <module name="Eureka_server02 (3)" />
+        <module name="service_provider (12)" />
+        <module name="Eureka_server02 (12)" />
         <module name="Eureka_server02 (1)" />
-        <module name="service_provider (4)" />
-        <module name="service_provider02 (5)" />
+        <module name="Eureka_server (8)" />
+        <module name="service_consumer (12)" />
         <module name="service_provider (2)" />
         <module name="service_provider02 (3)" />
-        <module name="service_consumer" />
-        <module name="service_provider02 (1)" />
+        <module name="Eureka_server (11)" />
         <module name="Eureka_server" />
         <module name="Eureka_server02" />
         <module name="service_consumer (5)" />
-        <module name="service_consumer (3)" />
+        <module name="service_provider02 (11)" />
+        <module name="Gateway (1)" />
+        <module name="service_consumer (9)" />
         <module name="service_provider (6)" />
+        <module name="service_provider02 (7)" />
         <module name="Eureka_server02 (6)" />
-        <module name="Eureka_server (1)" />
         <module name="service_consumer (1)" />
-        <module name="Eureka_server (5)" />
         <module name="service_provider" />
         <module name="Eureka_server (3)" />
-        <module name="Eureka_server02 (4)" />
         <module name="Eureka_server02 (2)" />
-        <module name="service_provider (3)" />
-        <module name="service_provider02 (6)" />
+        <module name="Eureka_server (7)" />
+        <module name="service_consumer (11)" />
         <module name="service_provider (1)" />
         <module name="service_provider02 (4)" />
-        <module name="service_provider02 (2)" />
-        <module name="service_consumer (4)" />
+        <module name="Eureka_server (10)" />
+        <module name="Config_server" />
+        <module name="service_provider02 (10)" />
         <module name="service_consumer (2)" />
+        <module name="service_provider (9)" />
+        <module name="Gateway (2)" />
         <module name="service_provider (5)" />
         <module name="service_consumer (6)" />
+        <module name="service_provider02 (8)" />
+        <module name="Eureka_server02 (7)" />
+        <module name="Eureka_server (2)" />
+        <module name="Eureka_server (6)" />
+        <module name="service_provider (10)" />
+        <module name="Eureka_server02 (10)" />
+        <module name="Eureka_server02 (3)" />
+        <module name="service_provider (4)" />
+        <module name="service_provider02 (5)" />
+        <module name="service_consumer (10)" />
+        <module name="service_consumer" />
+        <module name="service_provider02 (1)" />
+        <module name="Gateway" />
+        <module name="service_consumer (3)" />
+        <module name="Gateway (3)" />
+        <module name="service_provider (8)" />
+        <module name="service_provider02 (9)" />
+        <module name="service_consumer (7)" />
+        <module name="Eureka_server02 (8)" />
+        <module name="Eureka_server (1)" />
+        <module name="Eureka_server02 (11)" />
+        <module name="service_provider (11)" />
+        <module name="Eureka_server (5)" />
+        <module name="Eureka_server02 (4)" />
+        <module name="Eureka_server (9)" />
+        <module name="Gateway_server" />
+        <module name="service_provider (3)" />
+        <module name="service_provider02 (6)" />
+        <module name="service_provider02 (2)" />
+        <module name="service_consumer (4)" />
+        <module name="Eureka_server (12)" />
+        <module name="service_provider (7)" />
+        <module name="service_consumer (8)" />
+        <module name="service_provider02 (12)" />
+        <module name="Gateway (4)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Config_server" target="1.8" />
       <module name="demo01" target="1.8" />
       <module name="demo01 (1)" target="1.8" />
+      <module name="demo01 (10)" target="1.8" />
+      <module name="demo01 (11)" target="1.8" />
+      <module name="demo01 (12)" target="1.8" />
       <module name="demo01 (2)" target="1.8" />
       <module name="demo01 (3)" target="1.8" />
       <module name="demo01 (4)" target="1.8" />
       <module name="demo01 (5)" target="1.8" />
       <module name="demo01 (6)" target="1.8" />
+      <module name="demo01 (7)" target="1.8" />
+      <module name="demo01 (8)" target="1.8" />
+      <module name="demo01 (9)" target="1.8" />
       <module name="Eureka_server" target="1.8" />
       <module name="Eureka_server (1)" target="1.8" />
+      <module name="Eureka_server (10)" target="1.8" />
+      <module name="Eureka_server (11)" target="1.8" />
+      <module name="Eureka_server (12)" target="1.8" />
       <module name="Eureka_server (2)" target="1.8" />
       <module name="Eureka_server (3)" target="1.8" />
       <module name="Eureka_server (4)" target="1.8" />
       <module name="Eureka_server (5)" target="1.8" />
       <module name="Eureka_server (6)" target="1.8" />
+      <module name="Eureka_server (7)" target="1.8" />
+      <module name="Eureka_server (8)" target="1.8" />
+      <module name="Eureka_server (9)" target="1.8" />
       <module name="Eureka_server02" target="1.8" />
       <module name="Eureka_server02 (1)" target="1.8" />
+      <module name="Eureka_server02 (10)" target="1.8" />
+      <module name="Eureka_server02 (11)" target="1.8" />
+      <module name="Eureka_server02 (12)" target="1.8" />
       <module name="Eureka_server02 (2)" target="1.8" />
       <module name="Eureka_server02 (3)" target="1.8" />
       <module name="Eureka_server02 (4)" target="1.8" />
       <module name="Eureka_server02 (5)" target="1.8" />
       <module name="Eureka_server02 (6)" target="1.8" />
+      <module name="Eureka_server02 (7)" target="1.8" />
+      <module name="Eureka_server02 (8)" target="1.8" />
+      <module name="Eureka_server02 (9)" target="1.8" />
+      <module name="Gateway" target="1.8" />
+      <module name="Gateway (1)" target="1.8" />
+      <module name="Gateway (2)" target="1.8" />
+      <module name="Gateway (3)" target="1.8" />
+      <module name="Gateway (4)" target="1.8" />
+      <module name="Gateway_server" target="1.8" />
       <module name="service_consumer" target="1.8" />
       <module name="service_consumer (1)" target="1.8" />
+      <module name="service_consumer (10)" target="1.8" />
+      <module name="service_consumer (11)" target="1.8" />
+      <module name="service_consumer (12)" target="1.8" />
       <module name="service_consumer (2)" target="1.8" />
       <module name="service_consumer (3)" target="1.8" />
       <module name="service_consumer (4)" target="1.8" />
       <module name="service_consumer (5)" target="1.8" />
       <module name="service_consumer (6)" target="1.8" />
+      <module name="service_consumer (7)" target="1.8" />
+      <module name="service_consumer (8)" target="1.8" />
+      <module name="service_consumer (9)" target="1.8" />
       <module name="service_provider" target="1.8" />
       <module name="service_provider (1)" target="1.8" />
+      <module name="service_provider (10)" target="1.8" />
+      <module name="service_provider (11)" target="1.8" />
+      <module name="service_provider (12)" target="1.8" />
       <module name="service_provider (2)" target="1.8" />
       <module name="service_provider (3)" target="1.8" />
       <module name="service_provider (4)" target="1.8" />
       <module name="service_provider (5)" target="1.8" />
       <module name="service_provider (6)" target="1.8" />
+      <module name="service_provider (7)" target="1.8" />
+      <module name="service_provider (8)" target="1.8" />
+      <module name="service_provider (9)" target="1.8" />
       <module name="service_provider02" target="1.8" />
       <module name="service_provider02 (1)" target="1.8" />
+      <module name="service_provider02 (10)" target="1.8" />
+      <module name="service_provider02 (11)" target="1.8" />
+      <module name="service_provider02 (12)" target="1.8" />
       <module name="service_provider02 (2)" target="1.8" />
       <module name="service_provider02 (3)" target="1.8" />
       <module name="service_provider02 (4)" target="1.8" />
       <module name="service_provider02 (5)" target="1.8" />
       <module name="service_provider02 (6)" target="1.8" />
+      <module name="service_provider02 (7)" target="1.8" />
+      <module name="service_provider02 (8)" target="1.8" />
+      <module name="service_provider02 (9)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

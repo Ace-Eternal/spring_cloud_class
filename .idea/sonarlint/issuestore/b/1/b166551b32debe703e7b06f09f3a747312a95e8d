@@ -1,0 +1,18 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ªù‰
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÓ€½
+O
+java:S1172""4Remove these unused method parameters "userId", "e".(ìÅ¥’þÿÿÿÿ
+r
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
+c
+java:S1128	"MRemove this unused import 'org.springframework.cloud.client.ServiceInstance'.(¡‡¨ã
+m
+java:S1128
+"WRemove this unused import 'org.springframework.cloud.client.discovery.DiscoveryClient'.(Ù“®¦
+c
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Þûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
