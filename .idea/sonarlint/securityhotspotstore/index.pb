@@ -585,13 +585,213 @@ Pdemo12/service_consumer/src/main/java/com/example/controller/CartController.jav
 Mdemo12/service_provider02/src/main/java/com/example/ServiceProvider16001.java,8\8\885fed9a4afd2d09258003b48d8db29a6966c506
 >
 demo12/pom.xml,7\9\7998de0f4016ebb675f8c5054ff597a1dad9aebb
->
-demo12/note.md,e\a\ea9c75b30f2295bea551c399231dd24dbd64860b
 O
 demo13/service_consumer/pom.xml,5\1\51796e33dbe4bd2d90675036e90310710ef0ad73
->
-demo13/note.md,7\d\7d6d3f30bbd662d601e282963cdd80de479cefa3
->
-demo13/pom.xml,0\6\06a85c872edd037e065102c4b4c98be122f81259
 \
 ,demo13/service_consumer/service_consumer.iml,5\0\5012df30153d86823d358f3d3bb36af71ec5011a
+{
+Kdemo12/Eureka_server/src/main/java/com/example/EurekaServerApplication.java,f\6\f69065507f7c47e701cfe23e78dde3486d7ebc8d
+†
+Vdemo12/service_consumer/src/main/java/com/example/ServiceConsumerApplication10000.java,c\9\c9c90de7bc41a646cd1930929ba265efc26299ea
+v
+Fdemo12/Gateway_server/src/main/java/com/example/filter/AuthFilter.java,9\0\90a2d4c84a6f2db96a7d55f427bd6ce63f14a97d
+x
+Hdemo12/Gateway_server/src/main/java/com/example/controller/Fallback.java,6\5\65fab4b647b09d2d17da74d5dcf5a56652656cae
+`
+0demo08/service_consumer/service_consumer (5).iml,3\7\374e5dec1c9f19e44c53f5d6540b6ab92d9938d7
+`
+0demo08/service_consumer/service_consumer (6).iml,8\1\81f170d4c9a1808b159151b7a54932afbc0c813d
+`
+0demo08/service_consumer/service_consumer (1).iml,5\3\53276c9b0df1df3cb56ac7ab24fe8574bfc62b55
+`
+0demo08/service_consumer/service_consumer (2).iml,7\a\7a66860d67541404d4716229bf85ec4f466103fa
+`
+0demo08/service_consumer/service_consumer (3).iml,4\e\4e5a9a75a9e6e4ee90272918c213448c095e7e99
+`
+0demo08/service_consumer/service_consumer (4).iml,3\3\334f8e6948342cd99440a55d18c9497b38c38145
+\
+,demo08/service_consumer/service_consumer.iml,0\4\0422fbb5874cf004a3f0380b6e0b3cd13ff95aad
+X
+(demo08/Gateway_server/Gateway_server.iml,d\8\d8f7e051e3348d895e960ceb605edc8734f2fcf8
+A
+demo08/demo01.iml,c\b\cb281305bc5a2fa7e072681b138d0f9a96841b23
+`
+0demo08/service_provider/service_provider (7).iml,d\9\d919ee035e3ad4033e221858db1baf29a92c3c7a
+`
+0demo08/service_consumer/service_consumer (7).iml,5\1\51b80967b3d6f2c049dd48c500dc0b447580d2de
+^
+.demo08/Eureka_server02/Eureka_server02 (7).iml,d\7\d7e13e94b4d7710d8a035a4ec6f28d5ba7c605fc
+E
+demo08/demo01 (7).iml,5\4\54992a0b0e515053de0686520d0af4af9b278b70
+d
+4demo08/service_provider02/service_provider02 (5).iml,1\6\16e6b467b32da807c2600a363b464228a8096f55
+d
+4demo08/service_provider02/service_provider02 (6).iml,b\e\be6ff894254a924f6542aac809dd6e4f51a0886e
+d
+4demo08/service_provider02/service_provider02 (7).iml,8\9\891d95b84e130b83d13da5877b6d027139c5a2ff
+Z
+*demo08/Eureka_server/Eureka_server (7).iml,6\1\619fd69c87883ba6aa6e23849bfcc06988831d6e
+d
+4demo08/service_provider02/service_provider02 (2).iml,f\3\f37a14c650469e5820d77afd3c5ae0a56182bb83
+d
+4demo08/service_provider02/service_provider02 (3).iml,3\3\33aef66f117cfac38b3e63630e3f21d69688ec4a
+d
+4demo08/service_provider02/service_provider02 (4).iml,a\7\a707634b8c48a8c70fea96e2fbcf6606898f1ab5
+†
+V.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_4_1_0.xml,5\f\5f0092281287dc1a794c5d6e1dc0e5c502d9012c
+‡
+W.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_4_1_0.xml,4\a\4a723f37a5a59726d7493fbd1201b954523ae957
+`
+0demo08/service_provider02/service_provider02.iml,6\4\6447f2d323f93c5d261b52476fdf5f15e5067433
+s
+C.idea/libraries/Maven__org_springframework_spring_webflux_6_1_4.xml,8\e\8e3dae7f001b37090d9af5a7d591cfcdd1bb8b55
+d
+4demo08/service_provider02/service_provider02 (1).iml,f\4\f4d897c10ca709b7b762baace8c8e331b8e2ccba
+‹
+[.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_3_2_3.xml,5\2\52f10821960fe9780141262e6bf0f971b0955299
+ˆ
+X.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_3_2_3.xml,8\9\89624b253d6242777f467d0b442f0caacf5776cd
+…
+U.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_3_2_3.xml,c\3\c3a80173b2724500e9e6ad2efbbe453fd105c5fe
+|
+L.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_1_16.xml,e\b\ebdd4f4036e8d838e407d85afe5fd52dba40eed4
+‚
+R.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_8_0_1_Final.xml,8\a\8a4d385628dafb267fd067640988ffc3e2e1e1ad
+v
+F.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_3_Final.xml,0\d\0dd7a05b6fa451bcf95fc1ecde0a3fe5f42aa576
+€
+P.idea/libraries/Maven__io_github_resilience4j_resilience4j_timelimiter_2_2_0.xml,b\f\bfb5a85e67fcc1fa5911c86ffe7c400ae6ed7322
+
+O.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_107_Final.xml,3\e\3edffc03d84e133f341240cdbe8dd65e96dbfebe
+‹
+[.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_107_Final.xml,0\b\0b6456bf064a2226144a2a097b320ded7ed4216a
+„
+T.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_107_Final.xml,d\5\d52b2e4b4b9e55b525e7088462c9be2ceb9e4da6
+|
+L.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_1_16.xml,b\b\bbac6ef217dd5c71c488dfe00f2128d496ea8543
+t
+D.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_107_Final.xml,6\4\64841f3876770dc65fa53973eec20ad18192f53d
+‚
+R.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_107_Final.xml,0\4\04b5790cba2f4eb8d3cc7c3206902aa19bea92d8
+Œ
+\.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_107_Final.xml,a\9\a9e1cec635a238c639df4218296f54a670470776
+q
+A.idea/libraries/Maven__io_netty_netty_transport_4_1_107_Final.xml,f\4\f40e7c4c408a5c5b09427bfb35aba92c1839595a
+^
+.demo08/Eureka_server02/Eureka_server02 (4).iml,1\3\13146900b03b8896cb9a367472ec3e3ab57e9210
+o
+?.idea/libraries/Maven__io_netty_netty_handler_4_1_107_Final.xml,d\f\df5238cfd3aa2835843dbe426f290324a2006016
+^
+.demo08/Eureka_server02/Eureka_server02 (5).iml,4\3\43f98d35e4d20e6025509d6f73c013e98ee28d1a
+u
+E.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_107_Final.xml,8\e\8e7a9611fde6a9687f76d2a079be22f539080b40
+^
+.demo08/Eureka_server02/Eureka_server02 (6).iml,0\b\0b75549a0d5a8a8bb57e9a7cb714b9a4b7fb32de
+p
+@.idea/libraries/Maven__io_netty_netty_resolver_4_1_107_Final.xml,5\c\5cfeb26d688b8f28d3e3da5f9f526b325eca3b14
+^
+.demo08/Eureka_server02/Eureka_server02 (1).iml,4\1\4121e4ec7a4850fd03339936ce801bc987fb445f
+^
+.demo08/Eureka_server02/Eureka_server02 (2).iml,c\2\c29adf14e280ec89331e212f9136e97aad23c1fe
+s
+C.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_107_Final.xml,a\6\a6cdb50509c109a1f707818d97cd112b077074d1
+n
+>.idea/libraries/Maven__io_netty_netty_common_4_1_107_Final.xml,b\1\b10d57a957b00799f389ac2f230ff1b829923ffc
+^
+.demo08/Eureka_server02/Eureka_server02 (3).iml,8\3\838b38f0dc5c8e3e0f53a8d2f1388004733ac93b
+q
+A.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_107_Final.xml,7\0\707a1b492774713f4e003cb39a4fc0b8705aad44
+s
+C.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_107_Final.xml,b\0\b024f87c8f0acf600c4459ab05ce2b7ef1d40256
+Z
+*demo08/Eureka_server02/Eureka_server02.iml,8\8\887c018b35fccb6806eaa8b2fb0c88f6417b52c2
+r
+B.idea/libraries/Maven__io_netty_netty_codec_http_4_1_107_Final.xml,e\8\e8460b15fb5bbacfc1eba1defaa5f6a97db9acd8
+n
+>.idea/libraries/Maven__io_netty_netty_buffer_4_1_107_Final.xml,b\8\b83d9b98542ef4bae2cb6f9b272ad6a90be9027c
+m
+=.idea/libraries/Maven__io_netty_netty_codec_4_1_107_Final.xml,3\b\3b3afabe2520527fcc20c007f78346513f3b19d0
+h
+8.idea/libraries/Maven__com_fasterxml_classmate_1_6_0.xml,9\b\9bc181d303064a501c22c51ba0807cc55cfc6fce
+`
+0demo08/service_provider/service_provider (3).iml,2\e\2e870ffff0200ef28caaeff5c9adb9d6eab7f5dd
+`
+0demo08/service_provider/service_provider (4).iml,a\e\ae988c7b773f11dd43d9efb473b25020762c9868
+`
+0demo08/service_provider/service_provider (5).iml,3\6\36da2e14210c79277f04a1bf20ade574955e8711
+`
+0demo08/service_provider/service_provider (6).iml,b\4\b4b9b304f41522c871d967b0cfa496150b82ab21
+|
+Ldemo12/Gateway_server/src/main/java/com/example/GatewayApplication20000.java,2\3\23d696518b2ffea3d22cab9525a7c4dbfe48d268
+\
+,demo08/service_provider/service_provider.iml,8\9\8966be1c88497faf193a436a137d7948fafd7209
+`
+0demo08/service_provider/service_provider (1).iml,1\1\1133687a07ac9555669b2384a3d7bf091d055805
+`
+0demo08/service_provider/service_provider (2).iml,1\4\1476080e2360abd49c102c14d30fcdad30222c78
+E
+demo08/demo01 (5).iml,d\3\d334de7cc9a649c0329654af50aac3dd4d83dc70
+E
+demo08/demo01 (6).iml,1\b\1bf8a25a1e2dc7f034d444204ddc522126ec92d0
+E
+demo08/demo01 (1).iml,c\6\c6557ab7ef2662767a333f28c52d3d21da4978a3
+E
+demo08/demo01 (2).iml,1\e\1e7c0d3d1dc2c18eae57bf43b4da2cdc7e7e0bd6
+E
+demo08/demo01 (3).iml,c\b\cb71c8fe6ec89fd9cb1122152be7cc6a79a40bba
+E
+demo08/demo01 (4).iml,a\6\a6603119d185ca284ad567286f61c108ac8b3412
+Z
+*demo08/Eureka_server/Eureka_server (4).iml,2\9\293b342ab2e8d57d5f7b1b5daec9709ad80fd769
+Z
+*demo08/Eureka_server/Eureka_server (5).iml,8\f\8f4f521d80dace1755c7a11f241629fe5415d44b
+Z
+*demo08/Eureka_server/Eureka_server (6).iml,e\a\ea5142e278f698e28cb765aca732f2a2a866aa32
+Z
+*demo08/Eureka_server/Eureka_server (1).iml,9\5\95cf6ae40bdcd5f373677d12b8fc7e6b74824553
+Z
+*demo08/Eureka_server/Eureka_server (2).iml,b\b\bb4ee4a26226b0ef991334e4e57f25222897e37e
+Z
+*demo08/Eureka_server/Eureka_server (3).iml,1\a\1a11fd811be8ab55dfc38020f71f8db913dd13a7
+V
+&demo08/Eureka_server/Eureka_server.iml,f\c\fc0be4a1211d0b42500c0d7cd1318186853af2f0
+{
+Kdemo13/service_provider/src/main/java/com/example/ServiceProvider16000.java,c\7\c7aed8546a0d5cba30432a6869f4572d9f4badb5
+|
+Ldemo13/Gateway_server/src/main/java/com/example/GatewayApplication20000.java,4\c\4cdb49ba31b228d45072f913495dc763a75a4e5c
+†
+Vdemo13/service_consumer/src/main/java/com/example/ServiceConsumerApplication10000.java,8\3\83b4bf259eb4d7c8a77f16fd63064d74c9de01dd
+O
+demo13/service_provider/pom.xml,9\3\9348d1ccc321a7a41b947188c87dfa19810d2b36
+L
+demo13/Config_server/pom.xml,d\6\d6afcf293a51e6949b205cfa4a7586a385295abf
+N
+demo13/Config_server02/pom.xml,9\d\9d472bb7367e485e9627ab284124143a42661a25
+>
+demo13/pom.xml,0\6\06a85c872edd037e065102c4b4c98be122f81259
+{
+Kdemo13/Eureka_server/src/main/java/com/example/EurekaServerApplication.java,b\8\b87e74fb1d2d9e012dba08cde39ea887bab761cd
+}
+Mdemo13/service_provider02/src/main/java/com/example/ServiceProvider16001.java,4\c\4c89859ee7f4423dc266d8bcae24bc7739966689
+€
+Pdemo13/Config_server/src/main/java/com/example/ConfigServerApplication18000.java,6\c\6c659a4609ee751300954b8a6651c2f660a05b24
+‚
+Rdemo13/Config_server02/src/main/java/com/example/ConfigServerApplication18001.java,d\a\da109f01c605df95cb578450ed9ecea69d3d544e
+>
+demo12/note.md,e\a\ea9c75b30f2295bea551c399231dd24dbd64860b
+>
+demo13/note.md,7\d\7d6d3f30bbd662d601e282963cdd80de479cefa3
+Q
+!demo14/service_provider02/pom.xml,a\9\a941733d7f2e320377766c3e7ab51b420d823b28
+N
+demo14/Config_server02/pom.xml,2\2\22e2104eac2534e5c22942e668ae546402ab6293
+€
+Pdemo14/service_consumer/src/main/java/com/example/controller/CartController.java,5\5\552ea2fa170e6fe1877e3992185a7ad6e603d210
+>
+demo14/note.md,0\e\0e4fd3200a4bf76eb05592e5e31b960713e8075c
+>
+demo14/pom.xml,0\2\025f4661fd92f6096cdd3f8c2e4c9ddba96993ff
+O
+demo14/service_consumer/pom.xml,e\1\e179dd8b150b947dd9a2de15ffd0770d8ef6fcbe
+O
+demo14/service_provider/pom.xml,4\5\45126cad97028292676e0d5e31fa7bc55d2a0249

@@ -157,6 +157,8 @@
     <file url="file://$PROJECT_DIR$/demo12/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/Config_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/Config_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo13/Config_server02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo13/Config_server02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/Eureka_server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/Eureka_server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/Eureka_server02/src/main/java" charset="UTF-8" />
@@ -171,5 +173,23 @@
     <file url="file://$PROJECT_DIR$/demo13/service_provider02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo13/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Config_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Config_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Config_server02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Config_server02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Eureka_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Eureka_server02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Eureka_server02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Gateway_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/Gateway_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_provider02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/service_provider02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo14/src/main/resources" charset="UTF-8" />
   </component>
 </project>
